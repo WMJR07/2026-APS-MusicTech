@@ -1,4 +1,4 @@
-# Nome do Sistema: o que ele faz, em uma frase
+MusicTech: Sistema web para gerenciar uma loja de instrumentos musicais, permitindo cadastrar produtos e clientes, controlar o estoque e registrar vendas.
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
