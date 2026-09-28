@@ -1,13 +1,11 @@
 MusicTech: Sistema web para gerenciar uma loja de instrumentos musicais, permitindo cadastrar produtos e clientes, controlar o estoque e registrar vendas.
 
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
-
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** WILLIAM MARTINI JUNIOR
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Otávio, responsável pela loja de instrumentos musicais, que solicitou o desenvolvimento do sistema MusicTech para gerenciar os instrumentos, o estoque e as vendas.
 
 ## Apresentação do projeto
 
